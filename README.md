@@ -1,4 +1,3 @@
-# my-test-repo
 ## Hola:smiley:
 - **Mi nombre es Milloshy Noelia Crisostomo Rodriguez**:raising_hand:
 - **Tengo 17 años**
